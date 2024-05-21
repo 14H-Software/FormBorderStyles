@@ -1,0 +1,10 @@
+E:\..Project\FormBorderStyles\bin\Debug\FormBorderStyles.exe.config
+E:\..Project\FormBorderStyles\bin\Debug\FormBorderStyles.exe
+E:\..Project\FormBorderStyles\bin\Debug\FormBorderStyles.pdb
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.csproj.AssemblyReference.cache
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.Form1.resources
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.Properties.Resources.resources
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.csproj.GenerateResource.cache
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.csproj.CoreCompileInputs.cache
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.exe
+E:\..Project\FormBorderStyles\obj\Debug\FormBorderStyles.pdb

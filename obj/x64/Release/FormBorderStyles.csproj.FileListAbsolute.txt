@@ -1,0 +1,14 @@
+E:\..Project\FormBorderStyles\bin\x64\Release\FormBorderStyles.exe.config
+E:\..Project\FormBorderStyles\bin\x64\Release\FormBorderStyles.exe
+E:\..Project\FormBorderStyles\bin\x64\Release\FormBorderStyles.pdb
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.csproj.AssemblyReference.cache
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.Form1.resources
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.Properties.Resources.resources
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.csproj.GenerateResource.cache
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.csproj.CoreCompileInputs.cache
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.exe
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.pdb
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.FormChild.resources
+E:\..Project\FormBorderStyles\bin\x64\Release\WindowsFormsAero.dll
+E:\..Project\FormBorderStyles\bin\x64\Release\WindowsFormsAero.pdb
+E:\..Project\FormBorderStyles\obj\x64\Release\FormBorderStyles.csproj.CopyComplete
